@@ -1,6 +1,6 @@
 # Software-dev
 
-# [Writeups](https://yourwebsite.com](https://turbinesoftwork.com/)
+# [Writeups](https://turbinesoftwork.com/)
 
 - **Languages:** C (C11), Java, SQL
 - **Development:** Visual Studio, VS Code, GitHub
